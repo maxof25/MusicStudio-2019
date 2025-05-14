@@ -17,6 +17,8 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
 public class MainWindow{
+	
+	//System.out.println("Unfortunately, this program no longer works, due to me not finding the JAR for Javazoom")
 
 	private JFrame frmMusicMaster;
 
